@@ -1,0 +1,32 @@
+Tryhackme
+  Path 100%  :
+#
+    Introduction to Cybersecurity 
+    Complete Beginner
+    Pre security
+    Web fundamental
+    Cyber defense
+    SOC Level 1
+      Path in progress :
+#
+        SOC level 2
+        Security engineer
+          Outils :
+#
+            Siem : 
+#
+            - Splunk
+            - ELK 
+            - Wazuh
+            Forensic :
+#
+            - Autopsy
+            - Redline
+            - Kape
+            - Volatility
+            - Velociraptor
+            Endpoint : 
+#
+            - Sysinternal
+            - Sysmon
+            - Osquery
