@@ -14,9 +14,9 @@ Tryhackme
 #
           Tools :
               Siem : 
-                  - Splunk
-                    - ELK 
-                      - Wazuh
+                  - Splunk (investigation and report)
+                    - ELK (investigation and report)
+                      - Wazuh (GUI)
               Forensic :
                   - Autopsy
                     - Redline
@@ -28,14 +28,16 @@ Tryhackme
                     - Sysmon
                       - Osquery
 #
-            Others Tools
+          Others Tools
                 - Nmap 
                   - Metasploit
                     - Burp Suite (Community)
                       - Wireshark
                         - NetworkMiner
+                          - Nessus
+                            - OpenVas
 #
-            Firewall Virtual
+          Firewall Virtual
                 - Snort
                   - Zeek
             
