@@ -28,7 +28,7 @@ Tryhackme
                     - Sysmon
                       - Osquery
 #
-          Others Tools
+          Others Tools :
                 - Nmap 
                   - Metasploit
                     - Burp Suite (Community)
@@ -36,8 +36,13 @@ Tryhackme
                         - NetworkMiner
                           - Nessus
                             - OpenVas
+                              - Brim
 #
-          Firewall Virtual
+          Firewall Virtual : 
                 - Snort
                   - Zeek
+#
+    Challenge : 
+        - Wireshark 101
+        - 
             
